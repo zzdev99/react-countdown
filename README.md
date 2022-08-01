@@ -1,3 +1,15 @@
+# How to use
+## Go to App.js
+
+Copy next line to import component:
+### `import Countdown from "./components/Countdown";`
+
+Copy next line to import component:
+
+### `<Countdown datetime="2022-08-01 18:00:00"/>`
+
+Parameter `datetime` format: `YYYY-MM-DD HH:ii:ss`
+#
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
